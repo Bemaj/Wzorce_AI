@@ -1,0 +1,1 @@
+# Wzorce_AI
