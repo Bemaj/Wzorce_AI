@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rabatlosowy">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RandomDiscount.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
